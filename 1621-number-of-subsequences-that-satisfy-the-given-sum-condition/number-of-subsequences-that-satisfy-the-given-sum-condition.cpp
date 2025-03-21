@@ -1,33 +1,29 @@
 class Solution {
 public:
-    int numSubseq(vector<int>& arr, int target) {
-        sort(arr.begin(),arr.end());
-        int n=arr.size();
+    int numSubseq(vector<int>& nums, int target) {
+        sort(nums.begin(),nums.end());
+        int mod=1e9+7;
+        int n = nums.size();
         int s=0;
         int e=n-1;
-        int result=0;
-        int mod=1e9+7;
+        int res=0;
         vector<int>power(n,1);
-        //this set power[0]=1;
-
-        //precomputated power
+        power[0]=1;
         for(int i=1;i<n;i++){
             power[i]=(power[i-1]*2)%mod;
-
         }
+      while (s<=e)
+      {
 
+       if(nums[s]+nums[e]<=target){
+        res=(res+power[e-s])%mod;
+        s++;
+        
+       }else{
+            e--;
+       }
 
-
-        while(s<=e){
-            int sum=arr[s]+arr[e];
-            if(sum<=target){
-                result=(result+power[e-s])%mod;
-                s++;
-            }else{
-                e--;
-            }
-
-        }
-
-    return result;}
+      }
+      
+   return res;}
 };
