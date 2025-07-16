@@ -1,40 +1,40 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int i = 0, j = 0;
-        int n = s.size();
-        int m = t.size();
-        // edge case
+        int n = s.length();
+        int m = t.length();
         if (m > n) {
             return "";
         }
-        int start_i = -1;
-        int mini = INT_MAX;
         unordered_map<char, int> map;
-        for (int i = 0; i < m; i++) {
-            map[t[i]]++;
+        int j = 0, i = 0;
+        for (char& ch : t) {
+            map[ch]++;
         }
         int req_cnt = m;
+        int start_i = -1;
+        int minwindow = INT_MAX;
         while (j < n) {
             if (map[s[j]] > 0) {
                 req_cnt--;
             }
             map[s[j]]--;
-            while (req_cnt == 0) {
 
-                mini = min(mini, j - i + 1);
-                if (mini == j - i + 1)
-                    start_i = i;
+            while (req_cnt == 0) {
                 // shrink
+                if (minwindow > j - i + 1) {
+                    minwindow = j - i + 1;
+                    start_i = i;
+                }
                 map[s[i]]++;
                 if (map[s[i]] > 0) {
                     req_cnt++;
                 }
-                i++;
+                    i++;
             }
             j++;
         }
 
-        return (mini == INT_MAX) ? "" : s.substr(start_i, mini);
+        return minwindow == INT_MAX? "" : s.substr(start_i, minwindow);
     }
 };
