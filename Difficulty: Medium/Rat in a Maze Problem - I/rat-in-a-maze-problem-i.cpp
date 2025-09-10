@@ -1,40 +1,42 @@
 class Solution {
-    private:
-    void solve(vector<vector<int>>&maze,vector<string>&ans,int r,int c,string output
-    , vector<vector<bool>>&visited,int n){
-        if(r==n-1 && c==n-1){
-            ans.push_back(output);
-            return;
-        }
-        
-        if(r<0 || c<0  || r>=n || c>=n ||maze[r][c]==0||visited[r][c]){
-            return;
-        }
-        visited[r][c]=true;
-        //u,d,l,r
-        solve(maze,ans,r-1,c,output+"U",visited,n);
-        solve(maze,ans,r+1,c,output+"D",visited,n);
-
-        solve(maze,ans,r,c+1,output+"R",visited,n);
-        solve(maze,ans,r,c-1,output+"L",visited,n);
-        //bactrack
-        visited[r][c]=false;
-    }
   public:
+  void solve(int i,int j,vector<string>&res,string ans,vector<vector<int>>& maze,vector<vector<bool>>& visited){
+  int n=maze.size();
+  int m=maze[0].size();
+      
+      if(i==n-1 && j==m-1){
+          res.push_back(ans);
+          return;
+      }
+      
+      if(i<0||i>=n ||j<0||j>=m||visited[i][j]|| maze[i][j] == 0){
+          return;
+      }
+      visited[i][j]=true;
+      
+      solve(i+1,j,res,ans+'D',maze,visited);
+      solve(i-1,j,res,ans+'U',maze,visited);
+      solve(i,j-1,res,ans+'L',maze,visited);
+      solve(i,j+1,res,ans+'R',maze,visited);
+      
+      visited[i][j]=false;
+      
+      
+      
+  }
     vector<string> ratInMaze(vector<vector<int>>& maze) {
-        // code here
-        vector<string>ans;
+        // code herevec
         int n=maze.size();
-
-        int r=0;
-        int c=0;
-        if(maze[0][0]==0){
-            return{} ;
+        int m = maze[0].size();
+        string ans="";
+         if (maze.empty() || maze[0].empty()) {
+            return {};
         }
-        string output="";
-        vector<vector<bool>>visited(n,vector<bool>(n,false));
-        solve(maze,ans,0,0,"",visited,n);
-        sort(ans.begin(), ans.end());
-        return ans;
+        vector<string>res;
+        vector<vector<bool>>visited(n,vector<bool>(m,false));
+    
+      solve(0,0,res,ans,maze,visited);
+          sort(res.begin(), res.end());
+      return res;
     }
 };
