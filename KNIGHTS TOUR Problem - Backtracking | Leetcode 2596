@@ -1,0 +1,36 @@
+class Solution {
+public:
+
+bool solve(vector<vector<int>>&grid,int row ,int col ,int n,int m,int valnip){
+
+    if(row<0||row>=n||col<0||col>=m||valnip!=grid[row][col]){
+        return false;
+    }
+
+    if((n*n-1)==valnip){
+        return true;
+    }
+    
+    if(solve(grid,row-2,col+1,n,m,valnip+1)||
+    solve(grid,row-1,col+2,n,m,valnip+1)||
+    solve(grid,row+1,col+2,n,m,valnip+1)||
+    solve(grid,row+2,col+1,n,m,valnip+1)||
+    solve(grid,row+2,col-1,n,m,valnip+1)||
+    solve(grid,row+1,col-2,n,m,valnip+1)||
+    solve(grid,row-1,col-2,n,m,valnip+1)||
+    solve(grid,row-2,col-1,n,m,valnip+1)){
+        return true;
+    }
+    return false;
+
+
+}
+    bool checkValidGrid(vector<vector<int>>& grid) {
+        int n=grid.size();
+        int m=grid[0].size();
+        if(solve(grid,0,0,n,m,0)){
+            return true;
+        }
+        return false;
+    }
+};
