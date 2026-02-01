@@ -1,65 +1,38 @@
-//{ Driver Code Starts
-#include <bits/stdc++.h>
-
-using namespace std;
-
-
-// } Driver Code Ends
-
 // User function template for C++
 class Solution {
   public:
-  bool allzero(vector<int>&counter){
-      for(int &i :counter){
-          if(i!=0){
+  bool iszero(vector<int>counter){
+      for(int i=0;i<26;i++){
+          if(counter[i]!=0){
               return false;
           }
       }
       return true;
   }
     int search(string &pat, string &txt) {
-        // code here
-        int n=txt.size();
-        int k=pat.size();
-        int cnt=0;
         vector<int>counter(26,0);
+        int k=pat.length();
         for(int i=0;i<k;i++){
-            int ch =pat[i];
-            counter[ch-'a']++;
+            counter[pat[i]-'a']++;
         }
-        int j=0,i=0;
+        int i=0,j=0;
+        int count=0;
+        int n=txt.length();
         while(j<n){
             counter[txt[j]-'a']--;
             if(j-i+1==k){
-                if(allzero(counter)){
-                    cnt++;  
+                if(iszero(counter)){
+                    count++;
                 }
                 counter[txt[i]-'a']++;
                 i++;
+                
             }
             j++;
+            
         }
-    return  cnt;
+        // code here
+        return count;
         
     }
 };
-
-
-//{ Driver Code Starts.
-
-int main() {
-    int t;
-    cin >> t;
-    while (t--) {
-        string pat, txt;
-        cin >> txt >> pat;
-        Solution ob;
-        auto ans = ob.search(pat, txt);
-        cout << ans << "\n";
-
-        cout << "~"
-             << "\n";
-    }
-    return 0;
-}
-// } Driver Code Ends
