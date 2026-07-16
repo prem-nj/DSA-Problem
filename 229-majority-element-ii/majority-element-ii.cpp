@@ -3,45 +3,44 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         vector<int>res;
         int n=nums.size();
-        int maj1=-1;
-        int maj2=-1;
         int count1=0;
-        int count2=0;
-        for(int ele:nums){
-            if(ele==maj1){
+        int maj1=0;
+         int maj2=0;
+         int count2=0;
+         for(int elem:nums){
+            if(elem==maj1){
                 count1++;
-            }else if(ele==maj2){
+            }else if(elem==maj2){
                 count2++;
             }else if(count1==0){
-                count1=1;
-                maj1=ele;
+              maj1=elem;
+              count1=1;
             }else if(count2==0){
+                maj2=elem;
                 count2=1;
-                maj2=ele;
             }else{
                 count1--;
                 count2--;
             }
-            
-        }
-        int cnt1=0 ,cnt2=0;
-        for(int ele:nums){
-            if(ele==maj1){
-               cnt1++;
-            }else if(ele==maj2){
+         }
+         int cnt1=0;
+         int cnt2=0;
+         for(int num:nums){
+            if(num==maj1){
+                cnt1++;
+            }else if(num==maj2){
                 cnt2++;
             }
-        }
-        if(cnt1>n/3){
-            
+         }
+
+
+         int m=n/3;
+         if(cnt1>m){
             res.push_back(maj1);
-        } 
-        if (cnt2>n/3 && maj1!=maj2){
+         }
+         if(cnt2>m && maj1!=maj2){
             res.push_back(maj2);
-        }
-        if(res.size()==2 && res[0]>res[1]){
-            swap(res[0],res[1]);
-        }
+         }
         return res;
     }
 };
