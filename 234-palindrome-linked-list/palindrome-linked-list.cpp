@@ -1,41 +1,42 @@
-
-
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
 
-        if (head == nullptr || head->next == nullptr)
+        if (head == NULL || head->next == NULL)
             return true;
 
-        ListNode *slow = head, *fast = head;
+        ListNode* s = head;
+        ListNode* f = head;
 
-        while (fast != nullptr && fast->next != nullptr) {
-            slow = slow->next;
-            fast = fast->next->next;
+        while (f != NULL && f->next != NULL) {
+            s = s->next;
+            f = f->next->next;
         }
 
-        // Skip the middle node if the length is odd
-        if (fast != nullptr)
-            slow = slow->next;
+        ListNode* curr;
 
-        // Reverse second half
-        ListNode *prev = nullptr;
-        ListNode *curr = slow;
+        if (f == NULL) {      // even length
+            curr = s;
+        } else {              // odd length
+            curr = s->next;
+        }
 
-        while (curr != nullptr) {
-            ListNode *next = curr->next;
+        ListNode* prev = NULL;
+        ListNode* next = NULL;
+
+        while (curr != NULL) {
+            next = curr->next;
             curr->next = prev;
             prev = curr;
             curr = next;
         }
 
-        // Compare
-        while (prev != nullptr) {
-            if (head->val != prev->val)
+        while (prev != NULL) {
+            if (prev->val != head->val)
                 return false;
 
-            head = head->next;
             prev = prev->next;
+            head = head->next;
         }
 
         return true;
