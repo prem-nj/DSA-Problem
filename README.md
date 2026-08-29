@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/prem-nj/DSA-Problem/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/prem-nj/DSA-Problem/tree/master/0162-find-peak-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prem-nj/DSA-Problem/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prem-nj/DSA-Problem/tree/master/3242-count-elements-with-maximum-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/prem-nj/DSA-Problem/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
