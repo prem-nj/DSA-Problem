@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0152-maximum-product-subarray](https://github.com/prem-nj/DSA-Problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prem-nj/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prem-nj/DSA-Problem/tree/master/0162-find-peak-element) |
+| [0907-koko-eating-bananas](https://github.com/prem-nj/DSA-Problem/tree/master/0907-koko-eating-bananas) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prem-nj/DSA-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prem-nj/DSA-Problem/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0033-search-in-rotated-sorted-array](https://github.com/prem-nj/DSA-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prem-nj/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prem-nj/DSA-Problem/tree/master/0162-find-peak-element) |
+| [0907-koko-eating-bananas](https://github.com/prem-nj/DSA-Problem/tree/master/0907-koko-eating-bananas) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prem-nj/DSA-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
