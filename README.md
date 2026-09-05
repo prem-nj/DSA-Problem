@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prem-nj/DSA-Problem/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prem-nj/DSA-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/prem-nj/DSA-Problem/tree/master/2294-minimum-time-to-complete-trips) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/prem-nj/DSA-Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prem-nj/DSA-Problem/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
@@ -44,18 +45,21 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prem-nj/DSA-Problem/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prem-nj/DSA-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/prem-nj/DSA-Problem/tree/master/2294-minimum-time-to-complete-trips) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/prem-nj/DSA-Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [1675-magnetic-force-between-two-balls](https://github.com/prem-nj/DSA-Problem/tree/master/1675-magnetic-force-between-two-balls) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prem-nj/DSA-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/prem-nj/DSA-Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prem-nj/DSA-Problem/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/prem-nj/DSA-Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
