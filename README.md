@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prem-nj/DSA-Problem/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prem-nj/DSA-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/prem-nj/DSA-Problem/tree/master/2294-minimum-time-to-complete-trips) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prem-nj/DSA-Problem/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/prem-nj/DSA-Problem/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,15 +42,18 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prem-nj/DSA-Problem/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prem-nj/DSA-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/prem-nj/DSA-Problem/tree/master/2294-minimum-time-to-complete-trips) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prem-nj/DSA-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prem-nj/DSA-Problem/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
