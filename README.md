@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0076-minimum-window-substring](https://github.com/prem-nj/DSA-Problem/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/prem-nj/DSA-Problem/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prem-nj/DSA-Problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prem-nj/DSA-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0076-minimum-window-substring](https://github.com/prem-nj/DSA-Problem/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/prem-nj/DSA-Problem/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prem-nj/DSA-Problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prem-nj/DSA-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
 |  |
