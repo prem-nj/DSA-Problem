@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0152-maximum-product-subarray](https://github.com/prem-nj/DSA-Problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prem-nj/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prem-nj/DSA-Problem/tree/master/0162-find-peak-element) |
+| [0239-sliding-window-maximum](https://github.com/prem-nj/DSA-Problem/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/prem-nj/DSA-Problem/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prem-nj/DSA-Problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -77,6 +78,23 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/prem-nj/DSA-Problem/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prem-nj/DSA-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/prem-nj/DSA-Problem/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/prem-nj/DSA-Problem/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/prem-nj/DSA-Problem/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/prem-nj/DSA-Problem/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
