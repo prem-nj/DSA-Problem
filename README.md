@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/prem-nj/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/prem-nj/DSA-Problem/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/prem-nj/DSA-Problem/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/prem-nj/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prem-nj/DSA-Problem/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/prem-nj/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/prem-nj/DSA-Problem/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/prem-nj/DSA-Problem/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/prem-nj/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prem-nj/DSA-Problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prem-nj/DSA-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/prem-nj/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/prem-nj/DSA-Problem/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/prem-nj/DSA-Problem/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/prem-nj/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prem-nj/DSA-Problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prem-nj/DSA-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
