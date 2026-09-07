@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prem-nj/DSA-Problem/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/prem-nj/DSA-Problem/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -71,9 +72,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prem-nj/DSA-Problem/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prem-nj/DSA-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prem-nj/DSA-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
