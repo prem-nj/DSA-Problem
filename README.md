@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/prem-nj/DSA-Problem/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prem-nj/DSA-Problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prem-nj/DSA-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1675-magnetic-force-between-two-balls](https://github.com/prem-nj/DSA-Problem/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/prem-nj/DSA-Problem/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/prem-nj/DSA-Problem/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/prem-nj/DSA-Problem/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prem-nj/DSA-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0424-longest-repeating-character-replacement](https://github.com/prem-nj/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prem-nj/DSA-Problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prem-nj/DSA-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prem-nj/DSA-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Queue
 |  |
