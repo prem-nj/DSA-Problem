@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prem-nj/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/prem-nj/DSA-Problem/tree/master/0076-minimum-window-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/prem-nj/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/prem-nj/DSA-Problem/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/prem-nj/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/prem-nj/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/prem-nj/DSA-Problem/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/prem-nj/DSA-Problem/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -123,5 +125,10 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/prem-nj/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/prem-nj/DSA-Problem/tree/master/0908-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/prem-nj/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
