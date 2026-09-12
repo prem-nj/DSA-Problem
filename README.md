@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/prem-nj/DSA-Problem/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/prem-nj/DSA-Problem/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/prem-nj/DSA-Problem/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/prem-nj/DSA-Problem/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/prem-nj/DSA-Problem/tree/master/1153-product-sales-analysis-i) |
