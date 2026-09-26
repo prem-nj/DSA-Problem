@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0076-minimum-window-substring](https://github.com/prem-nj/DSA-Problem/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/prem-nj/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prem-nj/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/prem-nj/DSA-Problem/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/prem-nj/DSA-Problem/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/prem-nj/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prem-nj/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prem-nj/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/prem-nj/DSA-Problem/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/prem-nj/DSA-Problem/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/prem-nj/DSA-Problem/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1801-average-time-of-process-per-machine](https://github.com/prem-nj/DSA-Problem/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/prem-nj/DSA-Problem/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/prem-nj/DSA-Problem/tree/master/1908-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/prem-nj/DSA-Problem/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/prem-nj/DSA-Problem/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
