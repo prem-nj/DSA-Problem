@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prem-nj/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prem-nj/DSA-Problem/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/prem-nj/DSA-Problem/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/prem-nj/DSA-Problem/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0494-target-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/prem-nj/DSA-Problem/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/prem-nj/DSA-Problem/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0494-target-sum) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/prem-nj/DSA-Problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prem-nj/DSA-Problem/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prem-nj/DSA-Problem/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
