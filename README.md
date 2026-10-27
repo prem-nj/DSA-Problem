@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0494-target-sum) |
+| [1250-longest-common-subsequence](https://github.com/prem-nj/DSA-Problem/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prem-nj/DSA-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/prem-nj/DSA-Problem/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/prem-nj/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prem-nj/DSA-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1250-longest-common-subsequence](https://github.com/prem-nj/DSA-Problem/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prem-nj/DSA-Problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prem-nj/DSA-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/prem-nj/DSA-Problem/tree/master/0322-coin-change) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/prem-nj/DSA-Problem/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
