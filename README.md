@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prem-nj/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prem-nj/DSA-Problem/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/prem-nj/DSA-Problem/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/prem-nj/DSA-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/prem-nj/DSA-Problem/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/prem-nj/DSA-Problem/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/prem-nj/DSA-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/prem-nj/DSA-Problem/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0416-partition-equal-subset-sum) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0033-search-in-rotated-sorted-array](https://github.com/prem-nj/DSA-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prem-nj/DSA-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prem-nj/DSA-Problem/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/prem-nj/DSA-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/prem-nj/DSA-Problem/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/prem-nj/DSA-Problem/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prem-nj/DSA-Problem/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0583-delete-operation-for-two-strings](https://github.com/prem-nj/DSA-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/prem-nj/DSA-Problem/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/prem-nj/DSA-Problem/tree/master/1250-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/prem-nj/DSA-Problem/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
