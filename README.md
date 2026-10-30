@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0583-delete-operation-for-two-strings](https://github.com/prem-nj/DSA-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/prem-nj/DSA-Problem/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/prem-nj/DSA-Problem/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prem-nj/DSA-Problem/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prem-nj/DSA-Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/prem-nj/DSA-Problem/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0583-delete-operation-for-two-strings](https://github.com/prem-nj/DSA-Problem/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/prem-nj/DSA-Problem/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/prem-nj/DSA-Problem/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prem-nj/DSA-Problem/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prem-nj/DSA-Problem/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/prem-nj/DSA-Problem/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
